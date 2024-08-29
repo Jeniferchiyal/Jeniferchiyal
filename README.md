@@ -1,0 +1,2 @@
+- 👋 Hola!! me llamo Jeny xd
+- no se hacer un portafolio :V
