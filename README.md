@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Portafolio</title>
+    <title>Mi Primer Portafolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -11,21 +11,21 @@
         <nav>
             <ul>
                 <li><a href="#inicio">Inicio</a></li>
-                <li><a href="#sobre-mi">Sobre mí</a></li>
-                <li><a href="#proyectos">Proyectos</a></li>
-                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="#cosas-sobre-mi">Sobre mí</a></li>
+                <li><a href="#algunos-de-mis-proyectos">Proyectos</a></li>
+                <li><a href="#dudas-al-siguiente-contacto-xd">Contacto</a></li>
             </ul>
         </nav>
     </header>
 
     <section id="inicio">
-        <h1>¡Hola! Soy [Tu Nombre]</h1>
-        <p>Desarrollador Web | Diseñador | [Otra Profesión]</p>
+        <h1>¡Hola! Soy Jenifer, y estoy desarrollando un portafolio sin la mas minima idea de como se hace, siendo este mi primer año en utilizar este tipo de plataformas :D</h1>
+        <p>Estudiante | Mini progamador en HTML</p>
     </section>
 
     <section id="sobre-mi">
-        <h2>Sobre Mí</h2>
-        <p>[Breve descripción sobre ti]</p>
+        <h2>Cosas Sobre Mí</h2>
+        <p>Soy un estudiante, cursando el segundo de año de diversificado, me gustan los mangos xd, uno de mis pasatiempos es ejecutar instrumentos o dormir</p>
     </section>
 
     <section id="proyectos">
@@ -33,20 +33,19 @@
         <div class="proyecto">
             <h3>Proyecto 1</h3>
             <img src="images/proyecto1.png" alt="Proyecto 1">
-            <p>[Descripción del Proyecto 1]</p>
+            <p>Uno de mis proyectos de los cuales aun siguen siendo personales es culminar con mis estudios, pero, si llegase la oportunidad de realizar algun proyecto con mas impacto, entonces ese proyecto de realizaria</p>
         </div>
         <div class="proyecto">
             <h3>Proyecto 2</h3>
-            <img src="images/proyecto2.png" alt="Proyecto 2">
-            <p>[Descripción del Proyecto 2]</p>
+            <img src="proyecto.png" alt="Proyecto 2">
+            <p>Aun estoy planeando el segungo proyecto</p>
         </div>
-        <!-- Añade más proyectos según sea necesario -->
     </section>
 
-    <section id="contacto">
+    <section id="dudas al siguiente contacto xd">
         <h2>Contacto</h2>
         <form>
-            <label for="nombre">Nombre:</label>
+            <label for="nombre"Jenny:</label>
             <input type="text" id="nombre" name="nombre" required>
             
             <label for="email">Email:</label>
@@ -60,7 +59,7 @@
     </section>
 
     <footer>
-        <p>© 2024 [Tu Nombre]. Todos los derechos reservados.</p>
+        <p>© 2024 Jenifer. Todos los derechos reservados.</p>
     </footer>
 
     <script src="script.js"></script>
